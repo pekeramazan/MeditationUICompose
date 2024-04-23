@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.ramazanpeker.meditationuicompose"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.ramazanpeker.meditationuicompose"
